@@ -7,5 +7,5 @@ header file are user defined. The use of static functions allows the one using t
 the floor-function library capabilities.
 
 To use this library simply download the source and header file. Then Inlude it in your current project directory.
-Once it has been included, simply type the following command ' floor::function(enter a double) '.
+Once it has been included, simply type the following command ' floor::function(<enter a double>) '.
 
